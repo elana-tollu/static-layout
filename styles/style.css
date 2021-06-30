@@ -34,45 +34,6 @@ body {
   margin-top: 80px;
 }
 
-.description {
-  display: flex;
-  justify-content: center;
-}
-
-.two-column {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  align-items: flex-start;
-  width: 80%;
-}
-
-.brief {
-  width: 175px;
-  margin-right: 30px;
-  line-height: 1.2;
-  font-size: 18px;
-  font-family: 'Inter';
-  font-weight: normal;
-  color: #2f80ed;
-}
-
-.main-text {
-  width: 80%;
-  min-width: 784px;
-}
-
-.main-text p {
-  line-height: 34px;
-  font-size: 24px;
-  font-family: 'Inter';
-  font-weight: normal;
-  margin-top: 0;
-}
-
-.span-accent {
-  font-weight: bold;
-}
 
 .digits {
   display: flex;
