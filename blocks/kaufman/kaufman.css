@@ -1,0 +1,9 @@
+.kaufman {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin: 90px auto;
+    padding-bottom: 90px;
+    color: white;
+    background-color: black;
+  }
