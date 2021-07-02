@@ -4,4 +4,6 @@
     font-size: 102px;
     font-family: 'Inter';
     font-weight: 600;
+    z-index: 3;
+    align-self: center;
 }
