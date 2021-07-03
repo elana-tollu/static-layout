@@ -11,6 +11,8 @@
 @import url(./blocks/logo/_place/logo_place_header.css);
 @import url(./blocks/logo/_place/logo_place_footer.css);
 
+@import url(./blocks/content/content.css);
+
 @import url(./blocks/description/description.css);
 
 @import url(./blocks/two-column/two-column.css);
@@ -18,6 +20,20 @@
 @import url(./blocks/two-column/__main-text/two-column__main-text.css);
 @import url(./blocks/two-column/__paragraf/two-column__paragraf.css);
 @import url(./blocks/two-column/__span-accent/two-column__span-accent.css);
+
+@import url(./blocks/techiques/techiques.css);
+
+@import url(./blocks/section-title/section-title.css);
+@import url(./blocks/section-title/_theme/section-title_theme_dark.css);
+
+@import url(./blocks/section-subtitle/section-subtitle.css);
+@import url(./blocks/section-subtitle/_theme/section-subtitle_theme_dark.css);
+
+@import url(./blocks/cards/cards.css);
+@import url(./blocks/cards/__item/cards__item.css);
+@import url(./blocks/cards/__image/cards__image.css);
+@import url(./blocks/cards/__title/cards__title.css);
+@import url(./blocks/cards/__description/cards__description.css);
 
 @import url(./blocks/digits/digits.css);
 
