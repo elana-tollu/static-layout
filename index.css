@@ -12,6 +12,7 @@
 @import url(./blocks/logo/_place/logo_place_footer.css);
 
 @import url(./blocks/content/content.css);
+@import url(./blocks/description/__content/description__content.css);
 
 @import url(./blocks/description/description.css);
 
@@ -22,6 +23,7 @@
 @import url(./blocks/two-column/__span-accent/two-column__span-accent.css);
 
 @import url(./blocks/techiques/techiques.css);
+@import url(./blocks/techiques/__content/techiques__content.css);
 
 @import url(./blocks/section-title/section-title.css);
 @import url(./blocks/section-title/_theme/section-title_theme_dark.css);
@@ -36,6 +38,7 @@
 @import url(./blocks/cards/__description/cards__description.css);
 
 @import url(./blocks/digits/digits.css);
+@import url(./blocks/digits/__content/digits__content.css);
 
 @import url(./blocks/table/table.css);
 @import url(./blocks/table/_theme/table_theme_dark.css);
@@ -47,6 +50,11 @@
 @import url(./blocks/table/__text/_theme/table__text_theme_dark.css);
 
 @import url(./blocks/kaufman/kaufman.css);
+@import url(./blocks/kaufman/__content/kaufman__content.css);
+
+@import url(./blocks/resources/resources.css);
+@import url(./blocks/resources/__logo-zone/resources__logo-zone.css);
+@import url(./blocks/resources/__logo/resources__logo.css);
 
 @import url(./blocks/footer/footer.css);
 @import url(./blocks/footer/__columns/footer__columns.css);
@@ -57,4 +65,4 @@
 @import url(./blocks/footer/__column-heading/footer__column-heading.css);
 @import url(./blocks/footer/__column-links/footer__column-links.css);
 @import url(./blocks/footer/__social-icon/footer__social-icon.css);
-@import url(./blocks/footer/__columns-link/footer__columns-link.css);
+@import url(./blocks/footer/__column-link/footer__column-link.css);

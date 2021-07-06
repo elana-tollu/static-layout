@@ -1,3 +1,7 @@
+.header__link {
+    color: #2f80ed;
+}
+
 a:hover {
     color: #ff6666;
 }

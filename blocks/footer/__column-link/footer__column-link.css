@@ -1,9 +1,9 @@
-.footer__column-links {
+.footer__column-link {
     line-height: 18px;
     font-size: 18px;
     font-family: 'Inter';
     font-weight: normal;
-    color: #2f80ed;
     margin: 0px;
     padding-bottom: 16px;
+    color: #2f80ed;
 }

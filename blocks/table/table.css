@@ -1,7 +1,7 @@
 .table {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
     width: 1100px;
+    align-self: center;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
   }  
