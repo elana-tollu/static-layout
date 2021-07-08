@@ -1,4 +1,5 @@
 .khan__book-pic {
-    width: 608px;
+    width: 602px;
     height: 620px;
+    overflow: hidden;
 }

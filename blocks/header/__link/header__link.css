@@ -1,7 +1,10 @@
 .header__link {
     color: #2f80ed;
+    opacity: 1;
+    transition: opacity 1s ease;
 }
 
 a:hover {
-    color: #ff6666;
+    opacity: 0.3;
+    transition: opacity 1s ease;
 }
