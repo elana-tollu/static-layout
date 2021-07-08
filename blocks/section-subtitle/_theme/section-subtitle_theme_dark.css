@@ -8,5 +8,6 @@
     text-align: center;
     align-self: center;
     color: white;
-    background-color: black;
+    background-color: transparent;
+    z-index: 3;
 }

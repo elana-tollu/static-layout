@@ -7,7 +7,8 @@
     align-self: center;
     text-align: center;
     color: white;
-    background-color: black;
+    background-color: transparent;
     padding-top: 90px;
     margin: 0px;
+    z-index: 3;
 }

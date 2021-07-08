@@ -5,4 +5,5 @@
     margin-top: 80px;
     width: 200px;
     list-style-type: none; 
+    z-index: 3;
   }
