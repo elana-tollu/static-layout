@@ -10,7 +10,7 @@
     transition: opacity 1s ease;
 }
 
-a:hover {
+.khan__buy-link:hover {
     opacity: 0.3;
     transition: opacity 1s ease;
 }

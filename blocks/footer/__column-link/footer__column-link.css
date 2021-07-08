@@ -3,9 +3,7 @@
     font-size: 18px;
     font-family: 'Inter';
     font-weight: normal;
-    text-decoration: none;
     margin-top: 10px;
-    color: white;
     opacity: 1;
     transition: opacity 1s ease;
 }
@@ -14,7 +12,7 @@
     margin-top: 0;
 }
 
-a:hover {
+.footer__column-link:hover {
     opacity: 0.3;
     transition: opacity 1s ease;
 }
