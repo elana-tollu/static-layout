@@ -1,8 +1,8 @@
 .section-title {
     line-height: 1.15;
     font-size: 60px;
-    font-family: 'Inter';
-    font-weight: 600;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-weight: bold;
     width: 60%;
     align-self: center;
     text-align: center;

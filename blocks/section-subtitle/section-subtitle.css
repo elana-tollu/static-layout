@@ -1,7 +1,7 @@
 .section-subtitle {
     line-height: 34px;
     font-size: 24px;
-    font-family: 'Inter';
+    font-family: 'Inter', 'Arial', sans-serif;
     font-weight: normal;
     width: 60%;
     padding-top: 20px;

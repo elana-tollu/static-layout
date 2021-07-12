@@ -2,8 +2,8 @@
     width: 730px;
     line-height: 96px;
     font-size: 102px;
-    font-family: 'Inter';
-    font-weight: 600;
+    font-family: 'Inter', 'Arial', sans-serif;
+    font-weight: bold;
     z-index: 3;
     align-self: center;
 }
