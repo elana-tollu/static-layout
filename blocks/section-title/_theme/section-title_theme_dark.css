@@ -1,4 +1,6 @@
 .section-title_theme_dark {
+    margin: 0;
+    padding: 0;
     line-height: 1.15;
     font-size: 60px;
     font-family: 'Inter', 'Arial', sans-serif;
@@ -8,6 +10,5 @@
     text-align: center;
     color: white;
     background-color: transparent;
-    margin: 0;
     z-index: 3;
 }
