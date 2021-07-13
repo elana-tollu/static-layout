@@ -1,6 +1,6 @@
 .techiques {
     margin: 0;
-    padding-top: 100px;
+    padding: 100px 0 0 0;
     width: 80%;
     display: flex;
     flex-direction: column;
