@@ -1,5 +1,5 @@
 .cards {
-    width: 920px;
+    max-width: 920px;
     align-self: center;
     display: flex;
     justify-content: start;
